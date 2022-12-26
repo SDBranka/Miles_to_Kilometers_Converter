@@ -1,0 +1,12 @@
+Python docs: the packer
+https://docs.python.org/3/library/tkinter.html#the-packer
+
+TCL tk Docs: pack()
+https://tcl.tk/man/tcl8.6/TkCmd/pack.htm
+
+TCL tk Docs: entry()
+https://tcl.tk/man/tcl8.6/TkCmd/entry.htm
+
+Tkinter widget demo
+https://replit.com/@appbrewery/tkinter-widget-demo
+
