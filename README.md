@@ -1,4 +1,4 @@
-# Snake Game v3
+# Miles to Kilometers Converter
 
 ##### Table of Contents
 
@@ -9,8 +9,8 @@
 ---
 
 <p float="center">
-    <img src="https://github.com/SDBranka/Snake_Game_v3/blob/main/Resources/Game_Start_screenshot.png" width=45% alt="game start image"/>
-    <img src="https://github.com/SDBranka/Snake_Game_v3/blob/main/Resources/Game_Play_screenshot.png" width=45% alt="game play image"/>
+    <img src="https://github.com/SDBranka/Miles_to_Kilometers_Converter/blob/main/Resources/screenshot0.png" width=45% alt="game start image"/>
+    <img src="https://github.com/SDBranka/Miles_to_Kilometers_Converter/blob/main/Resources/screenshot1.png" width=45% alt="game play image"/>
 </p>
 
 ## Description
