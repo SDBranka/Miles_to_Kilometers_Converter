@@ -10,7 +10,7 @@
 
 <p float="center">
     <img src="https://github.com/SDBranka/Miles_to_Kilometers_Converter/blob/main/Resources/screenshot0.png" width=45% alt="game start image"/>
-    <img src="https://github.com/SDBranka/Miles_to_Kilometers_Converter/blob/main/Resources/screenshot1.png" width=45% height= 180 alt="game play image"/>
+    <img src="https://github.com/SDBranka/Miles_to_Kilometers_Converter/blob/main/Resources/screenshot1.png" width=45% height= 190 alt="game play image"/>
 </p>
 
 ## Description
